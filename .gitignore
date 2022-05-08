@@ -1,0 +1,10 @@
+# Miscellaneous
+.DS_Store
+.Trashes
+._*
+desktop.ini
+Thumbs.db
+
+.smartLib
+.smartLibrary
+bak
